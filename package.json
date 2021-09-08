@@ -2,7 +2,7 @@
   "dependencies": {
     "readline-sync": "^1.4.10"
   },
-  "name": "neog-mark-1",
+  "name": "mark-1",
   "version": "1.0.0",
   "description": "mark 1",
   "main": "index.js",
@@ -11,5 +11,13 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "gauravsinhaweb",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gauravsinhaweb/neog-mark1.git"
+  },
+  "bugs": {
+    "url": "https://github.com/gauravsinhaweb/neog-mark1/issues"
+  },
+  "homepage": "https://github.com/gauravsinhaweb/neog-mark1#readme"
 }
