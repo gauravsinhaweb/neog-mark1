@@ -34,7 +34,7 @@ var questions = [
 function welcome() {
   var userName = readlineSync.question("What's your name? ");
 
-  console.log("Welcome " + userName + " to DO YOU KNOW Tanay?");
+  console.log("Welcome " + userName + " to DO YOU KNOW Gaurav?");
 }
 
 // play function
